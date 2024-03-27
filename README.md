@@ -1,4 +1,11 @@
-알파코 9기
+yeardream 4
+AI DS track
+ReSys, NLP with sound
+
+I'm just starting the AI study, if who read my code, plz comment me.
+It'll make me to move more.
+Glad to meet u, and we study hard well. Good luck!
+
 
 <!--
 **chohj345677/chohj345677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
