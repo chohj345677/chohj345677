@@ -1,6 +1,6 @@
-yeardream 4
-AI DS track
-ReSys, NLP with sound
+yeardream 4 (AI DS track)
+
+Interest : ReSys, NLP with sound
 
 I'm just starting the AI study, if who read my code, plz comment me.
 It'll make me to move more.
